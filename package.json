@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madbence/node-mail-relay.git"
+    "url": "git+https://github.com/jankocool/testmail.git"
   },
   "keywords": [
     "mail",
@@ -31,7 +31,7 @@
   "author": "Bence Dányi <bence@danyi.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/madbence/node-mail-relay/issues"
+    "url": "https://github.com/jankocool/testmail/issues"
   },
-  "homepage": "https://github.com/madbence/node-mail-relay#readme"
+  "homepage": "https://github.com/jankocool/testmail#readme"
 }
